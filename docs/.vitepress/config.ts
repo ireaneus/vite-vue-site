@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'VitePress',
+  title: 'Grace Fellowship of Mountain Home ID',
   description: 'Vite & Vue powered static site generator.',
 
   themeConfig: {
@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'Example', link: '/example' },
 
       {
-        text: 'Dropdown Menu',
+        text: 'Sermons',
         items: [
           { text: 'Item A', link: '/item-1' },
           { text: 'Item B', link: '/item-2' },
