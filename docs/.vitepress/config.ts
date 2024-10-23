@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'en-US',
   title: 'Grace Fellowship of Mountain Home ID',
-  description: 'Vite & Vue powered static site generator.',
+  description: 'A body of believers that look to the Word of God to worship in Spirit and Truth',
 
   themeConfig: {
     nav: [
